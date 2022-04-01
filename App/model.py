@@ -135,7 +135,7 @@ def newOffenseEntry(offensegrp, crime):
     """
     ofentry = {'offense': None, 'lstoffenses': None}
     ofentry['offense'] = offensegrp
-    ofentry['lstoffenses'] = lt.newList('SINGLELINKED', compareOffenses)
+    ofentry['lstoffenses'] = lt.newList('SINGLE_LINKED', compareOffenses)
     return ofentry
 
 
