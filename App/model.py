@@ -67,6 +67,7 @@ def newAnalyzer():
 
 def addCrime(analyzer, crime):
     """
+    funcion que agrega un crimen al catalogo
     """
     lt.addLast(analyzer['crimes'], crime)
     updateDateIndex(analyzer['dateIndex'], crime)
