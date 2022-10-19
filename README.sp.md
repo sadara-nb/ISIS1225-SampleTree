@@ -1,17 +1,17 @@
 <!-- SAMPLE TREE-->
 # Sample Tree
 <!-- PROJECT SHIELDS -->
-[![Contributors][sample-Tree-contributors-shield]][sample-Tree-contributors-url]
-[![Forks][sample-Tree-forks-shield]][sample-Tree-forks-url]
-[![Stargazers][sample-Tree-stars-shield]][sample-Tree-stars-url]
-[![Issues][sample-Tree-issues-shield]][sample-Tree-issues-url]
-[![License][sample-Tree-license-shield]][sample-Tree-license-url]
+[![Contributors][sample-tree-contributors-shield]][sample-tree-contributors-url]
+[![Forks][sample-tree-forks-shield]][sample-tree-forks-url]
+[![Stargazers][sample-tree-stars-shield]][sample-tree-stars-url]
+[![Issues][sample-tree-issues-shield]][sample-tree-issues-url]
+[![License][sample-tree-license-shield]][sample-tree-license-url]
 
-Este es el repositorio es para el octavo y noveno laboratorio y enseña a los estudiantes cómo usar los ADT Mapas Ordenados, específicamente el Árbol de Búsqueda Binaria (BST) y el Árbol Rojo-Negro (RBT), cómo configurar ambas estructuras de datos y cómo integrarlo en los scripts MVC del curso.
+Este es el repositorio es para el octavo laboratorio y enseña a los estudiantes cómo usar los ADT Mapas Ordenados, específicamente el Árbol de Búsqueda Binaria (BST) y el Árbol Rojo-Negro (RBT), cómo configurar ambas estructuras de datos y cómo integrarlo en los scripts MVC del curso.
 
 Este repositorio forma parte del marco docente de estructura de datos y algoritmos (#EDA) de la Universidad de los Andes. El repositorio fue desarrollado por profesores y personal de la facultad en Departamento de Ingenieria de Sistemas y Computación (#DISC) y utiliza la librería Python no orientada a objetos **DISCLib**.
 
-[DISClib][disclib-url] · [Ejemplos y Tutoriales DISClib][demo-url] · [Reportar Errores][sample-Tree-bugs-url] · [Solicitar Funcionalidades][sample-Tree-issues-url]
+[DISClib][disclib-url] · [Ejemplos y Tutoriales DISClib][demo-url] · [Reportar Errores][sample-tree-bugs-url] · [Solicitar Funcionalidades][sample-tree-issues-url]
 
 <!-- PROJECT CONTENT -->
 **Tabla de contenido (actualizada)**

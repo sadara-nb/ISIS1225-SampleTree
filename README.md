@@ -1,17 +1,17 @@
 <!-- SAMPLE TREE-->
 # Sample Tree
 <!-- PROJECT SHIELDS -->
-[![Contributors][sample-Tree-contributors-shield]][sample-Tree-contributors-url]
-[![Forks][sample-Tree-forks-shield]][sample-Tree-forks-url]
-[![Stargazers][sample-Tree-stars-shield]][sample-Tree-stars-url]
-[![Issues][sample-Tree-issues-shield]][sample-Tree-issues-url]
-[![License][sample-Tree-license-shield]][sample-Tree-license-url]
+[![Contributors][sample-tree-contributors-shield]][sample-tree-contributors-url]
+[![Forks][sample-tree-forks-shield]][sample-tree-forks-url]
+[![Stargazers][sample-tree-stars-shield]][sample-tree-stars-url]
+[![Issues][sample-tree-issues-shield]][sample-tree-issues-url]
+[![License][sample-tree-license-shield]][sample-tree-license-url]
 
-This is the repository is for eight and ninth laboratory and teaches the students how to use the ADT Ordered Maps, specifically the Binary Search Tree (BST) and the Red-Black Tree (RBT), how to configure both data structures, and how to integrate it into the MVC scripts from the course.
+This is the repository is for eight laboratory and teaches the students how to use the ADT Ordered Maps, specifically the Binary Search Tree (BST) and the Red-Black Tree (RBT), how to configure both data structures, and how to integrate it into the MVC scripts from the course.
 
 This repository is part of the data structure and algorithms (#EDA) teaching framework at Universidad de los Andes. The repository was developed by faculty professors and staff in the Department of Systems and Computer Engineer (#DISC) and uses the Non-Object-Oriented Python library **DISCLib**.
 
-[DISClib][disclib-url] · [DISClib Demo and Examples][demo-url] · [Report Bug][sample-Tree-bugs-url] · [Request Feature][sample-Tree-issues-url]
+[DISClib][disclib-url] · [DISClib Demo and Examples][demo-url] · [Report Bug][sample-tree-bugs-url] · [Request Feature][sample-tree-issues-url]
 
 <!-- PROJECT CONTENT -->
 **Table of Contents (up to date)**
