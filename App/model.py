@@ -124,7 +124,7 @@ def newDataEntry(crime):
     entry = {'offenseIndex': None, 'lstcrimes': None}
     entry['offenseIndex'] = m.newMap(numelements=30,
                                      maptype='PROBING',
-                                     comparefunction=compareOffenses)
+                                     cmpfunction=compareOffenses)
     entry['lstcrimes'] = lt.newList('SINGLE_LINKED', compareDates)
     return entry
 
